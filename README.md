@@ -25,6 +25,14 @@ I'm comfortable down at the technical layer, not just in the notebook — packag
 
 Python as my daily driver, plus C++ and SQL for relational data.
 
+**Data engineering & BI**
+
+![ETL](https://img.shields.io/badge/ETL-2C5F2D?style=flat&logo=apacheairflow&logoColor=white)
+![OLAP](https://img.shields.io/badge/OLAP%20cubes-1F6FEB?style=flat&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+Building ETL pipelines, modeling OLAP cubes, and building dashboards for analytical workloads.
+
 **Data, ML & DL**
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
