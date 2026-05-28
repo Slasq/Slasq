@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst with a strong engineering backbone</h3>
 
 <p align="center">
-  Third-year Engineering &amp; Data Analysis student — turning messy data into decisions.
+  Third-year Engineering &amp; Data Analysis student at Rzeszów University of Technology.
 </p>
 
 ---
