@@ -69,6 +69,6 @@ Version control, prototyping, editing, and technical writing.
 
 ### 🌙 Off the clock
 
-Tinkering with **cybersecurity** as a hobby — Blue Teaming, DFIR, threat intelligence, and where it overlaps with my day-to-day: **ML for anomaly detection**.
+Tinkering with **cybersecurity** as a hobby — Blue Teaming, DFIR, threat intelligence, and where it overlaps with my day-to-day tasks.
 
 ---
