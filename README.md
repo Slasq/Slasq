@@ -59,6 +59,9 @@ Serving trained models as REST APIs in containerized, reproducible environments.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+
+Version control, prototyping, editing, technical writing, and keeping notes and research linked in one place.
 
 Version control, prototyping, editing, and technical writing.
 
