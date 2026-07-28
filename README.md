@@ -63,8 +63,6 @@ Serving trained models as REST APIs in containerized, reproducible environments.
 
 Version control, prototyping, editing, technical writing, and keeping notes and research linked in one place.
 
-Version control, prototyping, editing, and technical writing.
-
 ### 🔭 Currently into
 
 - Automatic generation of training data for **anomaly-detection models** — building tooling, training, validating on open datasets.
